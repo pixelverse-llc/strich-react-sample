@@ -1,0 +1,7 @@
+.home-container {
+    padding: var(--padding-default);
+}
+
+section {
+    margin-top: var(--padding-default);
+}

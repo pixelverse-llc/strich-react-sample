@@ -1,0 +1,9 @@
+.results-dialog {
+    margin: auto;
+    .button-bar {
+        margin-top: 8px;
+        display: flex;
+        flex-direction: row;
+        gap: 8px;
+    }
+}
